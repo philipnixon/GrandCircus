@@ -1,0 +1,7 @@
+c:\users\jjflo\source\repos\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+c:\users\jjflo\source\repos\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+c:\users\jjflo\source\repos\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+c:\users\jjflo\source\repos\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csprojResolveAssemblyReference.cache
+c:\users\jjflo\source\repos\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.CoreCompileInputs.cache
+c:\users\jjflo\source\repos\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+c:\users\jjflo\source\repos\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
